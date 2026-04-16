@@ -1,5 +1,2 @@
 requests
-BeautifulSoup
-json
-datetime
-time
+beautifulsoup4
