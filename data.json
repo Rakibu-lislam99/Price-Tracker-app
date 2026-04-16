@@ -1,0 +1,22 @@
+{
+    "https://webscraper.io/test-sites/e-commerce/static/product/31": {
+        "selector": "span[itemprop=\"price\"]",
+        "price": 416.99,
+        "last time": "2026-04-16 23:29"
+    },
+    "https://webscraper.io/test-sites/e-commerce/static/product/32": {
+        "selector": "span[itemprop=\"price\"]",
+        "price": 306.99,
+        "last time": "2026-04-16 23:30"
+    },
+    "https://webscraper.io/test-sites/e-commerce/static/product/33": {
+        "selector": "span[itemprop=\"price\"]",
+        "price": 1178.99,
+        "last time": "2026-04-16 23:30"
+    },
+    "https://webscraper.io/test-sites/e-commerce/static/product/34": {
+        "selector": "span[itemprop=\"price\"]",
+        "price": 739.99,
+        "last time": "2026-04-16 23:30"
+    }
+}
